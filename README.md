@@ -3,4 +3,9 @@
 This is a Demo for Git and Github class.
 
 # teacher
+
 kiran mithapara
+
+# student
+
+shradha khapra
